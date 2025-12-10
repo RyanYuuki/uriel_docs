@@ -1,0 +1,47 @@
+PRIVACY POLICY
+
+Last updated: [insert date]
+
+Uriel (“the App”) is a personal library application that allows users to save, organize, and track anime, movie, and series entries. This Privacy Policy explains how the App collects, uses, and protects user information.
+
+Information We Collect
+The App may collect the following user-provided information:
+• Profile name
+• Profile picture (selected from device storage)
+• User-created entries and progress information
+This data is stored locally on your device unless exported manually.
+
+Automatically Collected Data
+The App uses Firebase services, which may collect non-personal device and usage data, including:
+• Device type
+• App interactions
+• Crash information
+• Analytics events
+This information helps improve app stability and performance.
+
+Permissions Used
+• READ_EXTERNAL_STORAGE, WRITE_EXTERNAL_STORAGE, MANAGE_EXTERNAL_STORAGE: Used for selecting a profile picture and handling user-created export/backup data. The App does not access unrelated files.
+• INTERNET, ACCESS_NETWORK_STATE: Required for Firebase Analytics, metadata fetching, and network operations.
+
+How We Use Information
+Information is used to provide library functionality, personalization, and app performance improvements. No personal data is sold or shared with third parties.
+
+Data Storage and Security
+• Personal data remains stored locally on your device.
+• Analytics and crash logs stored by Firebase are handled according to Google’s Firebase Privacy and Security policies.
+
+Children’s Privacy
+The App is suitable for all ages and does not contain inappropriate content.
+We do not knowingly collect personal information from children.
+Firebase may collect anonymized usage data, which contains no personally identifiable information.
+
+Third-Party Services
+The App uses Firebase Analytics and Firebase Crashlytics. These services may collect non-identifiable data related to usage and device performance.
+
+Changes to This Privacy Policy
+We may update this Privacy Policy periodically. Continued use of the App implies acceptance of the updated policy.
+
+Contact Information
+rehank220358@gmail.com
+
+irfan31331@gmail.com
